@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+vcpkg_installed
+build
+out
+.vs/*
+.vscode/*
+vcpkg-manifest-install.log
+main
